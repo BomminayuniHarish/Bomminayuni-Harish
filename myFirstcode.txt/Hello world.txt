@@ -2,3 +2,20 @@ Hello world**
 new  angel
 i need to learn lot of tech
 gemini might help me
+How java works
+Variables in java 
+Datatypes in java
+Assignment Operators
+if ,if else if
+ternary operatr
+Loops
+class and object
+arrays
+String 
+input
+oops concepts
+Exception handling
+Interfaces
+Threads,collections,streams(Need to practise)- i will start with Dsa 
+Git-How to stage,commit,push,git hub
+servlets
